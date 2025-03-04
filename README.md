@@ -19,4 +19,4 @@ Splash Screen                  |  Checklist Screen
 
 Editing a Task           |  Statistics Screen
 :--------------------------------:|:-------------------------:
-![](screenshots/edit_task.png){widht=150}  |  ![](screenshots/task_stats.png){widht=150}
+![](screenshots/edit_task.png){widht=150}  |  ![](screenshots/task_stats.png){widht=150}# p20
